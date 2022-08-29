@@ -197,7 +197,9 @@ Let's see what we can find in this `Log` tab!
 
 ![image](https://user-images.githubusercontent.com/9881407/187305241-617aec01-95cf-43be-adcf-32cf7a998330.png)
 
-WTF?! Are you kidding me? :unamused: Let's have a look at the web console to see what we got:
+WTF?! Are you kidding me? :unamused:
+
+Let's have a look at the web console to see what we got:
 
 ![image](https://user-images.githubusercontent.com/9881407/187305538-20220cd5-226c-4da6-9bb6-d028f1b6086d.png)
 
@@ -360,7 +362,7 @@ $ ffplay -hide_banner "https://b-hls-19.doppiocdn.com/hls/17085196/master/170851
 
 > Nope, I won't show you nice pictures of the captured stream :rofl:
 
-I won't go in detail about it as it will quite off topic but maybe in another wiki article :stuck_out_tongue_winking_eye:
+I won't go in detail about it as it will be quite off topic but maybe in another wiki article :stuck_out_tongue_winking_eye:
 
 ## Extra
 
